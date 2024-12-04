@@ -1,4 +1,3 @@
 module blockchain-api
 
-go 1.2
-
+go 1.18
